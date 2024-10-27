@@ -17,6 +17,8 @@ Also, this might only work on Wayland.
 ```$ chmod +x wofi-wallpaper-selector.sh```
 4. Run the script
 
+The script automatically checks `~/Pictures/wallpapers` for wallpapers. Change it if you have a different path for them.
+
 ### Usage
 You can set this widget to an alias on your shell, or add it to a module on waybar, your choice really.
 
