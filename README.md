@@ -7,7 +7,7 @@ This Wofi widget allows for previewing multiple wallpapers and choosing one to b
 ### Dependencies
 This script uses `magick` and `swww`, and of course, `wofi`. Make use you have them installed.
 `notify-send` is an optional dependency.
-Also, this might only work on Wayland.
+Also, this will only work on Wayland.
 
 ### Installation
 
